@@ -1,0 +1,9 @@
+fastapi
+pydantic
+langchain_huggingface
+langchain_chroma
+dotenv
+openai==0.28
+streamlit
+langchain_community
+streamlit_lottie
